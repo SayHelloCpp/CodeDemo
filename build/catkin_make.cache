@@ -1,0 +1,2 @@
+ultrasonic
+-DCATKIN_DEVEL_PREFIX=/home/swzn/ultrasonic_ws/devel -DCMAKE_INSTALL_PREFIX=/home/swzn/ultrasonic_ws/install -G Unix Makefiles

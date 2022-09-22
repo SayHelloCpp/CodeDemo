@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libultrasonic.so -o /home/swzn/ultrasonic_ws/devel/lib/libultrasonic.so CMakeFiles/ultrasonic.dir/src/U_driver.cpp.o 
